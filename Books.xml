@@ -1,0 +1,73 @@
+
+<books>
+    <book>
+        <title>Suç ve Ceza</title>
+        <author>Fyodor Mihayloviç Dostoyevski</author>
+        <publisher>Turkuvaz Kitap</publisher>
+        <isbn>9780192833839</isbn>
+        <publicationdate>2020</publicationdate>
+    </book>
+    <book>
+        <title>Kumarbaz</title>
+        <author>Fyodor Mihayloviç Dostoyevski</author>
+        <publisher>Iskele Yayıncılık</publisher>
+        <isbn>9788420635491</isbn>
+        <publicationdate>2021</publicationdate>
+    </book>
+    <book>
+        <title>Hükümdar</title>
+        <author> Niccolo Machiavelli</author>
+        <publisher>Indigo Kitap</publisher>
+        <isbn>9786057611178</isbn>
+        <publicationdate>2019</publicationdate>
+    </book>
+    <book>
+        <title>Madam Bovary</title>
+        <author>Gustave Flaubert</author>
+        <publisher>Koloni Kitap</publisher>
+        <isbn>9786057795526</isbn>
+        <publicationdate>2020</publicationdate>
+    </book>
+    <book>
+        <title>Hayvan Çiftliği</title>
+        <author>George Orwell</author>
+        <publisher>Iskele Yayıncılık</publisher>
+        <isbn>9786051770000</isbn>
+        <publicationdate>2021</publicationdate>
+    </book>
+    <book>
+        <title>Aforizmalar </title>
+        <author> Franz Kafka</author>
+        <publisher>Indigo Kitap</publisher>
+        <isbn>9786057611499</isbn>
+        <publicationdate>2020</publicationdate>
+    </book>
+    <book>
+        <title>Denemeler</title>
+        <author>Michel de Montaigne</author>
+        <publisher>Okuryazar Yayınevi</publisher>
+        <isbn>9786054395675</isbn>
+        <publicationdate>2020</publicationdate>
+    </book>
+    <book>
+        <title>Kamelyalı Kadın</title>
+        <author>Alexandre Dumas Fils</author>
+        <publisher>SMS</publisher>
+        <isbn>9786056896415</isbn>
+        <publicationdate>2020</publicationdate>
+    </book>
+    <book>
+        <title>Geçmişe Yolculuk</title>
+        <author>Stefan Zweig</author>
+        <publisher>Remzi Kitabevi</publisher>
+        <isbn>9789751420749</isbn>
+        <publicationdate>2021</publicationdate>
+    </book>
+    <book>
+        <title>Peter Pan</title>
+        <author> James M. Barrie</author>
+        <publisher>Almidilli</publisher>
+        <isbn>9786059674737</isbn>
+        <publicationdate>2019</publicationdate>
+    </book>
+</books>
